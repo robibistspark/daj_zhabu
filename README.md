@@ -16,3 +16,6 @@
 - Самые частотные слова в песнях
 - Кластеризация песен по жанру
 - Поиск похожих исполнителей
+
+# Презентация
+https://docs.google.com/presentation/d/1Zg143jsEYENIZHPdobrvh4xyXxnzlCRT_dQfq4yiKxw/edit#slide=id.g1151dbc375f_6_21
